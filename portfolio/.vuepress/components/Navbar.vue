@@ -130,7 +130,7 @@
   .logo {
     position: absolute;
     width: 100%;
-    height: 4rem;
+    height: 100%;
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
