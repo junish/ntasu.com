@@ -51,7 +51,7 @@
     left: 0;
     top: 2rem;
     padding: 0.5rem 1rem;
-    background: rgba(255,255,255, 1);
+    background: rgba(255, 204, 102, 0.9);
     max-width: 400px;
   }
 
