@@ -7,8 +7,8 @@ fields:
   label: title
   hidden: true
 - type: textarea
-  name: hero_text
-  label: Hero text
+  name: home_text
+  label: Home text
   config:
     wysiwyg: true
     schema:
