@@ -129,7 +129,7 @@
 
   .logo {
     position: absolute;
-    width: 100%;
+    width: 40vw;
     height: 100%;
     background-size: contain;
     background-position: center;
