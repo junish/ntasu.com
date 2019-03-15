@@ -10,12 +10,6 @@
       "link": "/",
       "position": "left",
       "external": false
-    },
-    {
-      "text": "About",
-      "link": "/about",
-      "external": "",
-      "position": "left"
     }
   ]
 }
