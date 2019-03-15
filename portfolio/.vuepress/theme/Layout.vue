@@ -116,8 +116,8 @@
   }
 
   img {
-    width: 100%;
-    max-width: 100%;
+    width: 80%;
+    max-width: 80%;
     line-height: 0;
     margin: 2rem 0;
   }
