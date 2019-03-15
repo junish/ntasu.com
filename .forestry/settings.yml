@@ -16,6 +16,10 @@ sections:
   match: "**/*"
   templates:
   - works
+- type: document
+  path: portfolio/about.md
+  label: About
+  match: "**/*"
 - type: directory
   path: portfolio/journal
   label: Journal
