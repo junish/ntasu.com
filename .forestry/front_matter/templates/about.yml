@@ -1,0 +1,14 @@
+---
+label: About
+hide_body: false
+fields:
+- type: text
+  name: header
+  label: header
+- type: textarea
+  name: content
+  label: content
+  config:
+    wysiwyg: true
+    schema:
+      format: html
