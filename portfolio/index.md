@@ -1,9 +1,7 @@
 ---
 works_index: true
-hero_text: "<strong>We're Acme</strong>, we work for brands. But most importantly,
-  we work for fun."
+hero_text: "<strong>ntasu(エヌタス)</strong>は、情報セキュリティーを得意とした受託請負企業です"
 title: Hero
 
 ---
-<Hero :text="$page.frontmatter.hero_text" />
 <WorksList />
