@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: "<strong>ntasu(エヌタス)</strong>は<br>情報セキュリティーを得意とした受託開発企業です"
+home_text: "<strong>ntasu(エヌタス)</strong>は<br>情報セキュリティーを得意とした受託開発企業です"
 title: Home
 
 ---
