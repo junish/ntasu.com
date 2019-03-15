@@ -4,6 +4,6 @@ home_text: "<strong>ntasu(エヌタス)</strong>は<br>情報セキュリティ�
 title: Home
 
 ---
-<Home :text="$page.frontmatter.home_text" />
+<Hero :text="$page.frontmatter.home_text" />
 
 <WorksList />
