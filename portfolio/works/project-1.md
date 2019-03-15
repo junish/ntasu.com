@@ -1,15 +1,15 @@
 ---
-title: Project one
+title: BGM STATION様
 date: 2018-08-01 00:00:00 +0000
-thumbnail: "/upload/photo-1490013616775-3ca8865fb129.jpeg"
+thumbnail: "/upload/project-bgm-station.png"
 year: 2018
 categories:
-- print
-description: subtitle
+- 受託開発
+description: BGM配信サービスの受託開発
 
 ---
-# Project one
+# BGM STATION様
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+BGM配信サービスの受託開発。音楽再生機能の開発を担当しました。
 
-![](/upload/photo-1490013616775-3ca8865fb129.jpeg)
+![](/upload/project-bgm-station.png)
