@@ -39,7 +39,7 @@
     margin: 0 auto;
     width: 80%;
     height: 50vh;
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
     margin-bottom: 5vw;
