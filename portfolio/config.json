@@ -1,9 +1,9 @@
 {
   "title": "ntasu",
   "description": "情報セキュリティーを得意とした受託開発企業",
-  "logo": "/upload/logo.svg",
+  "logo": "/upload/ntasu-logo.png",
   "footer": "Ⓒ ntasu",
-  "favicon": "favicon-32x32.png",
+  "favicon": "/upload/ntasu-favicon-1.png",
   "navigation": [
     {
       "text": "Works",
