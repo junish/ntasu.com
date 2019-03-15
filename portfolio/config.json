@@ -8,7 +8,8 @@
     {
       "text": "About",
       "link": "/about",
-      "external": ""
+      "external": "",
+      "position": "left"
     },
     {
       "text": "Works",
