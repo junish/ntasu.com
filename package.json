@@ -1,13 +1,13 @@
 {
-  "name": "portfolio-vuepress",
+  "name": "ntasu-com",
   "scripts": {
-    "site:build": "vuepress build portfolio",
-    "site:develop": "vuepress dev portfolio -p 8080 -h 0.0.0.0"
+    "site:build": "npx vuepress build portfolio",
+    "site:develop": "npx vuepress dev portfolio -p 8080 -h 0.0.0.0"
   },
-  "author": "Nichlas W. Andersen",
+  "author": "Junichi Shinohara",
   "license": "MIT",
   "dependencies": {
-    "vuepress": "^0.14.10",
+    "vuepress": "~0.14.10",
     "webpack-dev-middleware": "3.6.0"
   }
 }
