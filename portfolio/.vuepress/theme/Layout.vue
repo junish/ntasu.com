@@ -16,7 +16,7 @@
       </div>
 
       <!-- Single project view -->
-      <div v-if="isSingleProject">
+      <div v-if="isSingleProject" class="single-project">
         <SingleProjectHeader
           :title="$page.frontmatter.title"
           :year="$page.frontmatter.year.toString()"
@@ -124,6 +124,10 @@
 
   .container {
     padding: 5vh 5vw 0 5vw;
+  }
+
+  .single-project {
+    text-align: center;
   }
 
   .journal-list, .single-journal {
