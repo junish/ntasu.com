@@ -123,7 +123,7 @@
   }
 
   .container {
-    padding: 0 5vw;
+    padding: 5vh 5vw 0 5vw;
   }
 
   .journal-list, .single-journal {

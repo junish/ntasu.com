@@ -119,17 +119,18 @@
     position: relative;
     align-items: center;
     justify-content: space-between;
-    height: 6rem;
-    padding: 5vw;
+    height: 5rem;
+    padding: 4vw;
     font-size: 0.8rem;
     font-weight: 600;
     z-index: 10;
+    background-color: #66cccc;
   }
 
   .logo {
     position: absolute;
-    width: 3rem;
-    height: 3rem;
+    width: 100%;
+    height: 4rem;
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
