@@ -1,0 +1,17 @@
+---
+label: About
+hide_body: false
+fields:
+- type: text
+  name: header
+  label: Header
+  config:
+    required: false
+- type: textarea
+  name: content
+  label: Content
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
