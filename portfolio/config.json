@@ -13,7 +13,7 @@
     },
     {
       "text": "About",
-      "link": "/about",
+      "link": "/about.md",
       "external": "",
       "position": "left"
     }
