@@ -6,16 +6,16 @@
   "favicon": "/upload/ntasu-favicon.png",
   "navigation": [
     {
-      "text": "About",
-      "link": "/about",
-      "external": "",
-      "position": "left"
-    },
-    {
       "text": "Works",
       "link": "/",
       "position": "left",
       "external": false
+    },
+    {
+      "text": "About",
+      "link": "/about",
+      "external": "",
+      "position": "left"
     }
   ]
 }
