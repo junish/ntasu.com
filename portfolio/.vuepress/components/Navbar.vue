@@ -121,7 +121,7 @@
     justify-content: space-between;
     height: 5rem;
     padding: 4vw;
-    font-size: 0.8rem;
+    font-size: 1rem;
     font-weight: 600;
     z-index: 10;
     background-color: #66cccc;
